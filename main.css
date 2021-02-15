@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 0;
+    background: yellow;
+}
+div.top-half {
+    background: linear-gradient(red , yellow);
+    padding: 10 10 100 10;
+}
+div {
+    clear: both;
+}
+img {
+    border-radius: 50%;
+    width: 150px;
+}
+h1 {
+    text-shadow: 2px 2px #FFFF00;
+}
+h2 {
+    text-shadow: 2px 2px #FFFF00;
+}
+h3 {
+    text-shadow: 2px 2px #FFFF00;
+}
+h4 {
+    color: black;
+}
+p.about {
+  font-size: 20px;
+  color: black;
+    margin: auto;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    cursor: pointer;
+    color: yellow;
+}
+.link{
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+div.section {
+    clear: both;
+}
+div.divide {
+    background-color: coral;
+}
+hr {
+    margin: auto;
+}
